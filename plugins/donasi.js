@@ -1,7 +1,13 @@
 let handler = async m => m.reply(`
-            .✵.𝗚𝗥𝗨𝗣 𝗣𝗘𝗡𝗧𝗔𝗕𝗢𝗧.✵.
-
-            https://chat.whatsapp.com/ElBB5NrJS637TYqjJLHuk2
+            ╭─「 Donasi 」
+│ • Indosat [085658333893]
+│ • Gopay [085658333893]
+│ • Dana [085658333893]
+│ • Saweria [https://saweria.co/mangtaf]
+╰────
+╭─「 Hubungi 」
+│ > Ingin donasi? Wa.me/6289512339018
+╰────
 `.trim()) // Tambah sendiri kalo mau
 handler.help = ['donasi']
 handler.tags = ['info']
