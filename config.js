@@ -61,7 +61,7 @@ fs.watchFile(file_exif, () => {
 // Sticker WM
 global.packname = sticker_name
 global.author = sticker_author
-global.wm = 'Created by Gempy'
+global.wm = 'Created by Mangtaf'
 
 global.multiplier = 1000 // The higher, The harder levelup
 
