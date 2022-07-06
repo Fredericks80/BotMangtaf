@@ -1,4 +1,4 @@
-let fs = require('fs')                    //CREATOR = GEMPY , DEVBOT
+let fs = require('fs')                    //CREATOR = Frederick , DEVBOT
 let chalk = require('chalk')
 global.owner = [
   ['629512339018'],
