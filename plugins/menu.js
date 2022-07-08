@@ -161,7 +161,8 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
     conn.sendHydrated(m.chat, text.trim(), '𝔹𝕆𝕋 𝕄𝔸ℕ𝔾𝕋𝔸𝔽', null, 'https://www.youtube.com/c/Frederick27', 'ʏᴏᴜᴛᴜʙᴇ ꜰʀᴇᴅᴇʀɪᴄᴋ', '', '', [
       ['DONASI', '/donasi'],
       ['𝗝𝗔𝗦𝗔 𝗥𝗨𝗡', '/sewa'],
-      ['✿𝗢𝗪𝗡𝗘𝗥✿', '/owner']
+      ['✿𝗢𝗪𝗡𝗘𝗥✿', '/owner'],
+      ['𝐆𝐀𝐌𝐄𝐓𝐔𝐓𝐎𝐑𝐈𝐀𝐋', '/gametutorial']
     ], m)
     /*let url = `https://telegra.ph/file/ab1df70dfd5c2bac64da1.jpg`.trim()
     let res = await fetch(url)
@@ -193,6 +194,10 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
                                     displayText: 'Owner',
                                     id: '/owner'
                                 }
+                            }, {
+                                quickReplyButton: {
+                                    displayText: 'GameTutorial',
+                                    id: '/gametutorial'
                             }]
                         }
                     }
