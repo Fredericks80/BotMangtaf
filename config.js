@@ -6,7 +6,7 @@ global.owner = [
   ['629512339018', 'frederick', true]  
   
 ] 
-global.ownername = [['Mangtaf']]
+global.ownername = [['Frederick']]
 global.namabot = [['MANGTAFBOT']]
 global.ownerinsta = [['@fredericks_27']]
 global.mods = [] 
