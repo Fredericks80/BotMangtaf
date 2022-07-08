@@ -9,7 +9,9 @@ global.owner = [
 global.ownername = [['Frederick']]
 global.namabot = [['MANGTAFBOT']]
 global.ownerinsta = [['@fredericks_27']]
-global.mods = [] 
+global.mods = [
+  ['629512339018', true],
+  ['6283139588812', true]]
 global.prems = [] 
 
 global.APIs = { // API Prefix
