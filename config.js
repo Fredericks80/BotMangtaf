@@ -2,17 +2,14 @@ let fs = require('fs')                    //CREATOR = Frederick , DEVBOT
 let chalk = require('chalk')
 global.owner = [
   ['629512339018'],
-  ['6285710531203', 'noufal', true]
+  ['629512339018']
   ['629512339018', 'frederick', true]  
   
 ] 
 global.ownername = [['Frederick']]
 global.namabot = [['MANGTAFBOT']]
 global.ownerinsta = [['@fredericks_27']]
-global.mods = [
-  ['629512339018', true],
-  ['6285710531203', true],
-  ['6285839359646', true]]
+global.mods = [629512339018]
 global.prems = [] 
 
 global.APIs = { // API Prefix
