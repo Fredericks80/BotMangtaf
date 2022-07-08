@@ -7,5 +7,5 @@ let handler = async (m) => {
 }
 handler.help = ['dompet [@user]']
 handler.tags = ['xp']
-handler.command = /^(dompet)$/i
+handler.command = /^(dompet|money)$/i
 module.exports = handler
